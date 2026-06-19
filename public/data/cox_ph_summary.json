@@ -1,0 +1,58 @@
+[
+  {
+    "covariate": "hour",
+    "coef": 0.0006,
+    "hazard_ratio": 1.0006,
+    "p_value": 0.7174357604135544,
+    "ci_lower": 0.9974,
+    "ci_upper": 1.0038
+  },
+  {
+    "covariate": "weapon_present",
+    "coef": 0.7311,
+    "hazard_ratio": 2.0774,
+    "p_value": 7.14472248092438e-89,
+    "ci_lower": 1.9337,
+    "ci_upper": 2.2319
+  },
+  {
+    "covariate": "Vict Age",
+    "coef": -0.0101,
+    "hazard_ratio": 0.99,
+    "p_value": 1.936495150317484e-74,
+    "ci_lower": 0.9889,
+    "ci_upper": 0.9911
+  },
+  {
+    "covariate": "is_violent",
+    "coef": 0.0414,
+    "hazard_ratio": 1.0423,
+    "p_value": 0.1946977074606399,
+    "ci_lower": 0.979,
+    "ci_upper": 1.1096
+  },
+  {
+    "covariate": "is_property",
+    "coef": -1.1781,
+    "hazard_ratio": 0.3079,
+    "p_value": 7.659217528386099e-272,
+    "ci_lower": 0.2883,
+    "ci_upper": 0.3287
+  },
+  {
+    "covariate": "is_vehicle",
+    "coef": 0.1858,
+    "hazard_ratio": 1.2042,
+    "p_value": 0.489239491228621,
+    "ci_lower": 0.7112,
+    "ci_upper": 2.039
+  },
+  {
+    "covariate": "is_night",
+    "coef": -0.0387,
+    "hazard_ratio": 0.9621,
+    "p_value": 0.10018204387593238,
+    "ci_lower": 0.9187,
+    "ci_upper": 1.0075
+  }
+]

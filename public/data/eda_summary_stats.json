@@ -1,0 +1,13 @@
+{
+  "total_records": 980376,
+  "date_range": "2020-01-01 to 2024-09-30",
+  "total_areas": 21,
+  "total_crime_types": 140,
+  "overall_arrest_rate": 9.01,
+  "weapon_usage_rate": 33.18,
+  "avg_victim_age": 39.5,
+  "median_report_delay_days": 1.0,
+  "top_crime_category": "PROPERTY",
+  "top_area": "Central",
+  "avg_mocodes_per_incident": 2.97
+}

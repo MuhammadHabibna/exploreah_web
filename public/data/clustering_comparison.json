@@ -1,0 +1,16 @@
+[
+  {
+    "Silhouette": 0.6581000089645386,
+    "Calinski-Harabasz": 577174.5,
+    "Davies-Bouldin": 0.4681,
+    "N_Clusters": 52.0,
+    "Noise_Pct": 0.52
+  },
+  {
+    "Silhouette": 0.41,
+    "Calinski-Harabasz": 111238.47,
+    "Davies-Bouldin": 0.7905,
+    "N_Clusters": 6.0,
+    "Noise_Pct": 0.0
+  }
+]

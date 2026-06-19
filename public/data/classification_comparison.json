@@ -1,0 +1,20 @@
+[
+  {
+    "Model": "LightGBM",
+    "F1 (mean +/- std)": "0.3177 +/- 0.0192",
+    "ROC-AUC (mean +/- std)": "0.8067 +/- 0.0120",
+    "Accuracy (mean +/- std)": "0.7319 +/- 0.0195"
+  },
+  {
+    "Model": "Logistic Regression",
+    "F1 (mean +/- std)": "0.2849 +/- 0.0184",
+    "ROC-AUC (mean +/- std)": "0.7486 +/- 0.0096",
+    "Accuracy (mean +/- std)": "0.7168 +/- 0.0260"
+  },
+  {
+    "Model": "Stacking Ensemble",
+    "F1 (mean +/- std)": 0.0002,
+    "ROC-AUC (mean +/- std)": 0.8219,
+    "Accuracy (mean +/- std)": 0.9336
+  }
+]

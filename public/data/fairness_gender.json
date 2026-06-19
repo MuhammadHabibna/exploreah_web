@@ -1,0 +1,17 @@
+[
+  {
+    "sensitive_feature_0": "F",
+    "accuracy": 0.927935287202885,
+    "selection_rate": 1.9923890737383197e-05
+  },
+  {
+    "sensitive_feature_0": "M",
+    "accuracy": 0.9266260649399528,
+    "selection_rate": 0.0
+  },
+  {
+    "sensitive_feature_0": "X",
+    "accuracy": 0.9462475571222443,
+    "selection_rate": 0.0
+  }
+]

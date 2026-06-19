@@ -1,0 +1,74 @@
+[
+  {
+    "feature": "dist_to_cbd_km",
+    "importance": 1524
+  },
+  {
+    "feature": "crime_cat_encoded",
+    "importance": 1037
+  },
+  {
+    "feature": "AREA",
+    "importance": 1023
+  },
+  {
+    "feature": "Vict Age",
+    "importance": 958
+  },
+  {
+    "feature": "report_delay_days",
+    "importance": 865
+  },
+  {
+    "feature": "premis_cat_encoded",
+    "importance": 758
+  },
+  {
+    "feature": "n_mocodes",
+    "importance": 703
+  },
+  {
+    "feature": "hour_cos",
+    "importance": 319
+  },
+  {
+    "feature": "vict_sex_encoded",
+    "importance": 313
+  },
+  {
+    "feature": "n_crime_codes",
+    "importance": 302
+  },
+  {
+    "feature": "hour_sin",
+    "importance": 273
+  },
+  {
+    "feature": "month_cos",
+    "importance": 214
+  },
+  {
+    "feature": "weapon_present",
+    "importance": 193
+  },
+  {
+    "feature": "month_sin",
+    "importance": 187
+  },
+  {
+    "feature": "dow_sin",
+    "importance": 129
+  },
+  {
+    "feature": "dow_cos",
+    "importance": 103
+  },
+  {
+    "feature": "time_of_day_encoded",
+    "importance": 82
+  },
+  {
+    "feature": "is_weekend",
+    "importance": 17
+  }
+]

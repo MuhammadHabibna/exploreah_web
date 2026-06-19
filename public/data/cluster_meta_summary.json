@@ -1,0 +1,587 @@
+[
+  {
+    "key": "outlier",
+    "label": "🟤 Klaster Khusus / Outlier",
+    "interpretation": "Klaster kecil atau anomali dengan sedikit kasus. Bisa menunjukkan data yang tidak lengkap (seperti usia 0) atau pola kejahatan unik.",
+    "cluster_count": 18,
+    "total_crimes": 23496,
+    "avg_arrest_rate": 0.0682,
+    "avg_weapon_rate": 0.0,
+    "avg_dist_cbd": 19.8,
+    "avg_age": 7.1,
+    "clusters": [
+      {
+        "id": 7,
+        "count": 2594,
+        "top_crime": "PROPERTY",
+        "top_area": "Newton",
+        "arrest_rate": 0.045,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.058,
+        "avg_age": 0.055
+      },
+      {
+        "id": 14,
+        "count": 2314,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.052,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 7.921,
+        "avg_age": 0.05
+      },
+      {
+        "id": 6,
+        "count": 2280,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.042,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 7.953,
+        "avg_age": 0.073
+      },
+      {
+        "id": 15,
+        "count": 2264,
+        "top_crime": "PROPERTY",
+        "top_area": "Newton",
+        "arrest_rate": 0.048,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.24,
+        "avg_age": 0.036
+      },
+      {
+        "id": 0,
+        "count": 2204,
+        "top_crime": "PROPERTY",
+        "top_area": "Pacific",
+        "arrest_rate": 0.049,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.069,
+        "avg_age": 0.024
+      },
+      {
+        "id": 1,
+        "count": 2139,
+        "top_crime": "PROPERTY",
+        "top_area": "Pacific",
+        "arrest_rate": 0.06,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.258,
+        "avg_age": 0.04
+      },
+      {
+        "id": 4,
+        "count": 2087,
+        "top_crime": "PROPERTY",
+        "top_area": "77th Street",
+        "arrest_rate": 0.057,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.298,
+        "avg_age": 0.062
+      },
+      {
+        "id": 9,
+        "count": 1088,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.069,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.638,
+        "avg_age": 0.153
+      },
+      {
+        "id": 21,
+        "count": 984,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.085,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.388,
+        "avg_age": 0.084
+      },
+      {
+        "id": 25,
+        "count": 982,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.101,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.582,
+        "avg_age": 0.162
+      },
+      {
+        "id": 18,
+        "count": 978,
+        "top_crime": "PROPERTY",
+        "top_area": "Devonshire",
+        "arrest_rate": 0.075,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 27.032,
+        "avg_age": 0.088
+      },
+      {
+        "id": 10,
+        "count": 954,
+        "top_crime": "PROPERTY",
+        "top_area": "West Valley",
+        "arrest_rate": 0.09,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 27.039,
+        "avg_age": 0.107
+      },
+      {
+        "id": 22,
+        "count": 947,
+        "top_crime": "PROPERTY",
+        "top_area": "Devonshire",
+        "arrest_rate": 0.102,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.766,
+        "avg_age": 0.118
+      },
+      {
+        "id": 5,
+        "count": 858,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.078,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.836,
+        "avg_age": 0.159
+      },
+      {
+        "id": 51,
+        "count": 245,
+        "top_crime": "PROPERTY",
+        "top_area": "Pacific",
+        "arrest_rate": 0.016,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 17.716,
+        "avg_age": 42.604
+      },
+      {
+        "id": 32,
+        "count": 211,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.057,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 32.363,
+        "avg_age": 41.754
+      },
+      {
+        "id": 48,
+        "count": 206,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.102,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 31.828,
+        "avg_age": 42.641
+      },
+      {
+        "id": 47,
+        "count": 161,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.099,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 30.917,
+        "avg_age": 0.0
+      }
+    ]
+  },
+  {
+    "key": "property_urban",
+    "label": "🔵 Kejahatan Properti Pusat Kota",
+    "interpretation": "Klaster kejahatan properti tanpa senjata di sekitar pusat kota LA. Memiliki volume kasus tertinggi namun arrest rate sangat rendah.",
+    "cluster_count": 7,
+    "total_crimes": 26676,
+    "avg_arrest_rate": 0.0326,
+    "avg_weapon_rate": 0.0,
+    "avg_dist_cbd": 8.3,
+    "avg_age": 39.9,
+    "clusters": [
+      {
+        "id": 41,
+        "count": 4181,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.03,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.55,
+        "avg_age": 39.863
+      },
+      {
+        "id": 46,
+        "count": 4113,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.03,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.517,
+        "avg_age": 39.029
+      },
+      {
+        "id": 29,
+        "count": 3973,
+        "top_crime": "PROPERTY",
+        "top_area": "Southwest",
+        "arrest_rate": 0.031,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.623,
+        "avg_age": 40.444
+      },
+      {
+        "id": 27,
+        "count": 3826,
+        "top_crime": "PROPERTY",
+        "top_area": "Southwest",
+        "arrest_rate": 0.033,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.708,
+        "avg_age": 40.279
+      },
+      {
+        "id": 2,
+        "count": 3666,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.031,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.555,
+        "avg_age": 40.276
+      },
+      {
+        "id": 35,
+        "count": 3663,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.036,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 8.674,
+        "avg_age": 39.553
+      },
+      {
+        "id": 49,
+        "count": 3254,
+        "top_crime": "PROPERTY",
+        "top_area": "Central",
+        "arrest_rate": 0.037,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 6.605,
+        "avg_age": 39.813
+      }
+    ]
+  },
+  {
+    "key": "violent_urban",
+    "label": "🔴 Kekerasan Bersenjata Perkotaan",
+    "interpretation": "Klaster kekerasan bersenjata di wilayah selatan-tengah LA. Didominasi korban usia dewasa muda.",
+    "cluster_count": 7,
+    "total_crimes": 23810,
+    "avg_arrest_rate": 0.1509,
+    "avg_weapon_rate": 1.0,
+    "avg_dist_cbd": 8.0,
+    "avg_age": 34.4,
+    "clusters": [
+      {
+        "id": 17,
+        "count": 3736,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.145,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 7.78,
+        "avg_age": 33.976
+      },
+      {
+        "id": 38,
+        "count": 3629,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.142,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 7.857,
+        "avg_age": 34.357
+      },
+      {
+        "id": 8,
+        "count": 3445,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.15,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 7.873,
+        "avg_age": 34.669
+      },
+      {
+        "id": 31,
+        "count": 3356,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.155,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 8.079,
+        "avg_age": 34.136
+      },
+      {
+        "id": 36,
+        "count": 3241,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.151,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 8.01,
+        "avg_age": 34.835
+      },
+      {
+        "id": 3,
+        "count": 3219,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.156,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 8.15,
+        "avg_age": 34.381
+      },
+      {
+        "id": 23,
+        "count": 3184,
+        "top_crime": "VIOLENT",
+        "top_area": "77th Street",
+        "arrest_rate": 0.157,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 8.097,
+        "avg_age": 34.442
+      }
+    ]
+  },
+  {
+    "key": "property_suburban",
+    "label": "🟣 Kejahatan Properti Pinggiran",
+    "interpretation": "Kejahatan properti tanpa senjata di wilayah pinggiran. Cenderung terjadi di area yang lebih aman, namun pencurian tetap menjadi masalah utama.",
+    "cluster_count": 12,
+    "total_crimes": 16101,
+    "avg_arrest_rate": 0.0665,
+    "avg_weapon_rate": 0.0,
+    "avg_dist_cbd": 27.7,
+    "avg_age": 36.6,
+    "clusters": [
+      {
+        "id": 40,
+        "count": 2150,
+        "top_crime": "PROPERTY",
+        "top_area": "Topanga",
+        "arrest_rate": 0.052,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.991,
+        "avg_age": 43.544
+      },
+      {
+        "id": 42,
+        "count": 2047,
+        "top_crime": "PROPERTY",
+        "top_area": "Van Nuys",
+        "arrest_rate": 0.06,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.707,
+        "avg_age": 43.414
+      },
+      {
+        "id": 28,
+        "count": 2005,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.05,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.777,
+        "avg_age": 43.291
+      },
+      {
+        "id": 26,
+        "count": 1988,
+        "top_crime": "PROPERTY",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.058,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.841,
+        "avg_age": 43.203
+      },
+      {
+        "id": 19,
+        "count": 1970,
+        "top_crime": "PROPERTY",
+        "top_area": "Van Nuys",
+        "arrest_rate": 0.051,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 26.871,
+        "avg_age": 43.471
+      },
+      {
+        "id": 45,
+        "count": 1964,
+        "top_crime": "PROPERTY",
+        "top_area": "Topanga",
+        "arrest_rate": 0.056,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 27.093,
+        "avg_age": 43.267
+      },
+      {
+        "id": 34,
+        "count": 1767,
+        "top_crime": "PROPERTY",
+        "top_area": "Topanga",
+        "arrest_rate": 0.063,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 27.021,
+        "avg_age": 41.897
+      },
+      {
+        "id": 12,
+        "count": 831,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.091,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 31.374,
+        "avg_age": 21.946
+      },
+      {
+        "id": 20,
+        "count": 383,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.11,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 31.241,
+        "avg_age": 24.376
+      },
+      {
+        "id": 11,
+        "count": 377,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.082,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 31.699,
+        "avg_age": 26.297
+      },
+      {
+        "id": 33,
+        "count": 352,
+        "top_crime": "PROPERTY",
+        "top_area": "Harbor",
+        "arrest_rate": 0.088,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 31.605,
+        "avg_age": 23.653
+      },
+      {
+        "id": 50,
+        "count": 267,
+        "top_crime": "PROPERTY",
+        "top_area": "Pacific",
+        "arrest_rate": 0.037,
+        "weapon_rate": 0.0,
+        "avg_dist_cbd": 17.802,
+        "avg_age": 40.76
+      }
+    ]
+  },
+  {
+    "key": "violent_suburban",
+    "label": "🟠 Kekerasan Bersenjata Pinggiran",
+    "interpretation": "Klaster kekerasan bersenjata di area pinggiran kota (San Fernando Valley). Menariknya, arrest rate lebih tinggi dibanding wilayah pusat kota.",
+    "cluster_count": 8,
+    "total_crimes": 9397,
+    "avg_arrest_rate": 0.2271,
+    "avg_weapon_rate": 1.0,
+    "avg_dist_cbd": 27.8,
+    "avg_age": 34.6,
+    "clusters": [
+      {
+        "id": 13,
+        "count": 1390,
+        "top_crime": "VIOLENT",
+        "top_area": "Harbor",
+        "arrest_rate": 0.215,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 31.874,
+        "avg_age": 33.835
+      },
+      {
+        "id": 39,
+        "count": 1288,
+        "top_crime": "VIOLENT",
+        "top_area": "Van Nuys",
+        "arrest_rate": 0.215,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.32,
+        "avg_age": 34.451
+      },
+      {
+        "id": 16,
+        "count": 1268,
+        "top_crime": "VIOLENT",
+        "top_area": "Mission",
+        "arrest_rate": 0.252,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.478,
+        "avg_age": 34.345
+      },
+      {
+        "id": 44,
+        "count": 1150,
+        "top_crime": "VIOLENT",
+        "top_area": "Mission",
+        "arrest_rate": 0.227,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.079,
+        "avg_age": 35.005
+      },
+      {
+        "id": 24,
+        "count": 1090,
+        "top_crime": "VIOLENT",
+        "top_area": "N Hollywood",
+        "arrest_rate": 0.239,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 26.782,
+        "avg_age": 34.941
+      },
+      {
+        "id": 37,
+        "count": 1088,
+        "top_crime": "VIOLENT",
+        "top_area": "Topanga",
+        "arrest_rate": 0.222,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.445,
+        "avg_age": 34.799
+      },
+      {
+        "id": 43,
+        "count": 1069,
+        "top_crime": "VIOLENT",
+        "top_area": "West Valley",
+        "arrest_rate": 0.226,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.003,
+        "avg_age": 33.938
+      },
+      {
+        "id": 30,
+        "count": 1054,
+        "top_crime": "VIOLENT",
+        "top_area": "West Valley",
+        "arrest_rate": 0.221,
+        "weapon_rate": 1.0,
+        "avg_dist_cbd": 27.144,
+        "avg_age": 35.851
+      }
+    ]
+  }
+]

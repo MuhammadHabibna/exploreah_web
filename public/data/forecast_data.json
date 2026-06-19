@@ -1,0 +1,570 @@
+{
+  "forecast": [
+    {
+      "month": "2020-01",
+      "actual": 18560,
+      "prophet": 18515,
+      "prophet_lower": 16915,
+      "prophet_upper": 20115,
+      "sarima": 18299
+    },
+    {
+      "month": "2020-02",
+      "actual": 17278,
+      "prophet": 17250,
+      "prophet_lower": 15650,
+      "prophet_upper": 18850,
+      "sarima": 17059
+    },
+    {
+      "month": "2020-03",
+      "actual": 16187,
+      "prophet": 16195,
+      "prophet_lower": 14595,
+      "prophet_upper": 17795,
+      "sarima": 16057
+    },
+    {
+      "month": "2020-04",
+      "actual": 15701,
+      "prophet": 15720,
+      "prophet_lower": 14120,
+      "prophet_upper": 17320,
+      "sarima": 15600
+    },
+    {
+      "month": "2020-05",
+      "actual": 17228,
+      "prophet": 17229,
+      "prophet_lower": 15629,
+      "prophet_upper": 18829,
+      "sarima": 17081
+    },
+    {
+      "month": "2020-06",
+      "actual": 17056,
+      "prophet": 17064,
+      "prophet_lower": 15464,
+      "prophet_upper": 18664,
+      "sarima": 16928
+    },
+    {
+      "month": "2020-07",
+      "actual": 17153,
+      "prophet": 17163,
+      "prophet_lower": 15563,
+      "prophet_upper": 18763,
+      "sarima": 17030
+    },
+    {
+      "month": "2020-08",
+      "actual": 16897,
+      "prophet": 16911,
+      "prophet_lower": 15311,
+      "prophet_upper": 18511,
+      "sarima": 16782
+    },
+    {
+      "month": "2020-09",
+      "actual": 15654,
+      "prophet": 15682,
+      "prophet_lower": 14082,
+      "prophet_upper": 17282,
+      "sarima": 15576
+    },
+    {
+      "month": "2020-10",
+      "actual": 16507,
+      "prophet": 16516,
+      "prophet_lower": 14916,
+      "prophet_upper": 18116,
+      "sarima": 16381
+    },
+    {
+      "month": "2020-11",
+      "actual": 15590,
+      "prophet": 15602,
+      "prophet_lower": 14002,
+      "prophet_upper": 17202,
+      "sarima": 15470
+    },
+    {
+      "month": "2020-12",
+      "actual": 15976,
+      "prophet": 15985,
+      "prophet_lower": 14385,
+      "prophet_upper": 17585,
+      "sarima": 15849
+    },
+    {
+      "month": "2021-01",
+      "actual": 16621,
+      "prophet": 16629,
+      "prophet_lower": 15029,
+      "prophet_upper": 18229,
+      "sarima": 16492
+    },
+    {
+      "month": "2021-02",
+      "actual": 15435,
+      "prophet": 15458,
+      "prophet_lower": 13858,
+      "prophet_upper": 17058,
+      "sarima": 15343
+    },
+    {
+      "month": "2021-03",
+      "actual": 16349,
+      "prophet": 16368,
+      "prophet_lower": 14768,
+      "prophet_upper": 17968,
+      "sarima": 16246
+    },
+    {
+      "month": "2021-04",
+      "actual": 16082,
+      "prophet": 16108,
+      "prophet_lower": 14508,
+      "prophet_upper": 17708,
+      "sarima": 15997
+    },
+    {
+      "month": "2021-05",
+      "actual": 17016,
+      "prophet": 17035,
+      "prophet_lower": 15435,
+      "prophet_upper": 18635,
+      "sarima": 16915
+    },
+    {
+      "month": "2021-06",
+      "actual": 17180,
+      "prophet": 17200,
+      "prophet_lower": 15600,
+      "prophet_upper": 18800,
+      "sarima": 17081
+    },
+    {
+      "month": "2021-07",
+      "actual": 18684,
+      "prophet": 18678,
+      "prophet_lower": 17078,
+      "prophet_upper": 20278,
+      "sarima": 18519
+    },
+    {
+      "month": "2021-08",
+      "actual": 18395,
+      "prophet": 18393,
+      "prophet_lower": 16793,
+      "prophet_upper": 19993,
+      "sarima": 18240
+    },
+    {
+      "month": "2021-09",
+      "actual": 18384,
+      "prophet": 18372,
+      "prophet_lower": 16772,
+      "prophet_upper": 19972,
+      "sarima": 18204
+    },
+    {
+      "month": "2021-10",
+      "actual": 19335,
+      "prophet": 19302,
+      "prophet_lower": 17702,
+      "prophet_upper": 20902,
+      "sarima": 19103
+    },
+    {
+      "month": "2021-11",
+      "actual": 18367,
+      "prophet": 18337,
+      "prophet_lower": 16737,
+      "prophet_upper": 19937,
+      "sarima": 18143
+    },
+    {
+      "month": "2021-12",
+      "actual": 17957,
+      "prophet": 17940,
+      "prophet_lower": 16340,
+      "prophet_upper": 19540,
+      "sarima": 17766
+    },
+    {
+      "month": "2022-01",
+      "actual": 18546,
+      "prophet": 18556,
+      "prophet_lower": 16956,
+      "prophet_upper": 20156,
+      "sarima": 18421
+    },
+    {
+      "month": "2022-02",
+      "actual": 17746,
+      "prophet": 17763,
+      "prophet_lower": 16163,
+      "prophet_upper": 19363,
+      "sarima": 17638
+    },
+    {
+      "month": "2022-03",
+      "actual": 19734,
+      "prophet": 19725,
+      "prophet_lower": 18125,
+      "prophet_upper": 21325,
+      "sarima": 19562
+    },
+    {
+      "month": "2022-04",
+      "actual": 19828,
+      "prophet": 19819,
+      "prophet_lower": 18219,
+      "prophet_upper": 21419,
+      "sarima": 19656
+    },
+    {
+      "month": "2022-05",
+      "actual": 20465,
+      "prophet": 20455,
+      "prophet_lower": 18855,
+      "prophet_upper": 22055,
+      "sarima": 20291
+    },
+    {
+      "month": "2022-06",
+      "actual": 20268,
+      "prophet": 20266,
+      "prophet_lower": 18666,
+      "prophet_upper": 21866,
+      "sarima": 20114
+    },
+    {
+      "month": "2022-07",
+      "actual": 20001,
+      "prophet": 20008,
+      "prophet_lower": 18408,
+      "prophet_upper": 21608,
+      "sarima": 19870
+    },
+    {
+      "month": "2022-08",
+      "actual": 20136,
+      "prophet": 20139,
+      "prophet_lower": 18539,
+      "prophet_upper": 21739,
+      "sarima": 19994
+    },
+    {
+      "month": "2022-09",
+      "actual": 19330,
+      "prophet": 19339,
+      "prophet_lower": 17739,
+      "prophet_upper": 20939,
+      "sarima": 19203
+    },
+    {
+      "month": "2022-10",
+      "actual": 20327,
+      "prophet": 20314,
+      "prophet_lower": 18714,
+      "prophet_upper": 21914,
+      "sarima": 20145
+    },
+    {
+      "month": "2022-11",
+      "actual": 18742,
+      "prophet": 18745,
+      "prophet_lower": 17145,
+      "prophet_upper": 20345,
+      "sarima": 18599
+    },
+    {
+      "month": "2022-12",
+      "actual": 20029,
+      "prophet": 20011,
+      "prophet_lower": 18411,
+      "prophet_upper": 21611,
+      "sarima": 19835
+    },
+    {
+      "month": "2023-01",
+      "actual": 19948,
+      "prophet": 19926,
+      "prophet_lower": 18326,
+      "prophet_upper": 21526,
+      "sarima": 19743
+    },
+    {
+      "month": "2023-02",
+      "actual": 18483,
+      "prophet": 18481,
+      "prophet_lower": 16881,
+      "prophet_upper": 20081,
+      "sarima": 18328
+    },
+    {
+      "month": "2023-03",
+      "actual": 19198,
+      "prophet": 19196,
+      "prophet_lower": 17596,
+      "prophet_upper": 20796,
+      "sarima": 19043
+    },
+    {
+      "month": "2023-04",
+      "actual": 18924,
+      "prophet": 18929,
+      "prophet_lower": 17329,
+      "prophet_upper": 20529,
+      "sarima": 18787
+    },
+    {
+      "month": "2023-05",
+      "actual": 18898,
+      "prophet": 18916,
+      "prophet_lower": 17316,
+      "prophet_upper": 20516,
+      "sarima": 18793
+    },
+    {
+      "month": "2023-06",
+      "actual": 18722,
+      "prophet": 18747,
+      "prophet_lower": 17147,
+      "prophet_upper": 20347,
+      "sarima": 18635
+    },
+    {
+      "month": "2023-07",
+      "actual": 19922,
+      "prophet": 19927,
+      "prophet_lower": 18327,
+      "prophet_upper": 21527,
+      "sarima": 19785
+    },
+    {
+      "month": "2023-08",
+      "actual": 20062,
+      "prophet": 20062,
+      "prophet_lower": 18462,
+      "prophet_upper": 21662,
+      "sarima": 19913
+    },
+    {
+      "month": "2023-09",
+      "actual": 19308,
+      "prophet": 19313,
+      "prophet_lower": 17713,
+      "prophet_upper": 20913,
+      "sarima": 19172
+    },
+    {
+      "month": "2023-10",
+      "actual": 20093,
+      "prophet": 19500,
+      "prophet_lower": 17700,
+      "prophet_upper": 21300,
+      "sarima": 19100
+    },
+    {
+      "month": "2023-11",
+      "actual": 19055,
+      "prophet": 18700,
+      "prophet_lower": 16900,
+      "prophet_upper": 20500,
+      "sarima": 18300
+    },
+    {
+      "month": "2023-12",
+      "actual": 19517,
+      "prophet": 18950,
+      "prophet_lower": 17150,
+      "prophet_upper": 20750,
+      "sarima": 18550
+    },
+    {
+      "month": "2024-01",
+      "actual": 18878,
+      "prophet": 18350,
+      "prophet_lower": 16550,
+      "prophet_upper": 20150,
+      "sarima": 17950
+    },
+    {
+      "month": "2024-02",
+      "actual": 17358,
+      "prophet": 17900,
+      "prophet_lower": 16100,
+      "prophet_upper": 19700,
+      "sarima": 17500
+    },
+    {
+      "month": "2024-03",
+      "actual": 16237,
+      "prophet": 18600,
+      "prophet_lower": 16800,
+      "prophet_upper": 20400,
+      "sarima": 18200
+    },
+    {
+      "month": "2024-04",
+      "actual": 12892,
+      "prophet": 18700,
+      "prophet_lower": 16900,
+      "prophet_upper": 20500,
+      "sarima": 18300
+    },
+    {
+      "month": "2024-05",
+      "actual": 9325,
+      "prophet": 19300,
+      "prophet_lower": 17500,
+      "prophet_upper": 21100,
+      "sarima": 18900
+    },
+    {
+      "month": "2024-06",
+      "actual": 8041,
+      "prophet": 19500,
+      "prophet_lower": 17700,
+      "prophet_upper": 21300,
+      "sarima": 19100
+    },
+    {
+      "month": "2024-07",
+      "actual": 8055,
+      "prophet": 19700,
+      "prophet_lower": 17900,
+      "prophet_upper": 21500,
+      "sarima": 19300
+    },
+    {
+      "month": "2024-08",
+      "actual": 8033,
+      "prophet": 19600,
+      "prophet_lower": 17800,
+      "prophet_upper": 21400,
+      "sarima": 19200
+    },
+    {
+      "month": "2024-09",
+      "actual": 6945,
+      "prophet": 19100,
+      "prophet_lower": 17300,
+      "prophet_upper": 20900,
+      "sarima": 18700
+    },
+    {
+      "month": "2024-10",
+      "actual": null,
+      "prophet": 19000,
+      "prophet_lower": 16800,
+      "prophet_upper": 21200,
+      "sarima": 18500
+    },
+    {
+      "month": "2024-11",
+      "actual": null,
+      "prophet": 18200,
+      "prophet_lower": 16000,
+      "prophet_upper": 20400,
+      "sarima": 17700
+    },
+    {
+      "month": "2024-12",
+      "actual": null,
+      "prophet": 18450,
+      "prophet_lower": 16250,
+      "prophet_upper": 20650,
+      "sarima": 17950
+    },
+    {
+      "month": "2025-01",
+      "actual": null,
+      "prophet": 18350,
+      "prophet_lower": 16150,
+      "prophet_upper": 20550,
+      "sarima": 17850
+    },
+    {
+      "month": "2025-02",
+      "actual": null,
+      "prophet": 17900,
+      "prophet_lower": 15700,
+      "prophet_upper": 20100,
+      "sarima": 17400
+    },
+    {
+      "month": "2025-03",
+      "actual": null,
+      "prophet": 18600,
+      "prophet_lower": 16400,
+      "prophet_upper": 20800,
+      "sarima": 18100
+    }
+  ],
+  "seasonality": [
+    {
+      "name": "Jan",
+      "offset": -2.5,
+      "desc": "Penurunan awal tahun"
+    },
+    {
+      "name": "Feb",
+      "offset": -5.0,
+      "desc": "Titik terendah tahunan"
+    },
+    {
+      "name": "Mar",
+      "offset": -1.1,
+      "desc": "Mulai stabil"
+    },
+    {
+      "name": "Apr",
+      "offset": -0.6,
+      "desc": "Tren netral"
+    },
+    {
+      "name": "Mei",
+      "offset": 2.8,
+      "desc": "Peningkatan cuaca hangat"
+    },
+    {
+      "name": "Jun",
+      "offset": 3.9,
+      "desc": "Awal liburan musim panas"
+    },
+    {
+      "name": "Jul",
+      "offset": 5.0,
+      "desc": "Puncak aktivitas kriminal"
+    },
+    {
+      "name": "Agu",
+      "offset": 4.5,
+      "desc": "Aktivitas musim panas tinggi"
+    },
+    {
+      "name": "Sep",
+      "offset": 1.7,
+      "desc": "Mulai menurun"
+    },
+    {
+      "name": "Okt",
+      "offset": 1.1,
+      "desc": "Tren musim gugur netral"
+    },
+    {
+      "name": "Nov",
+      "offset": -3.4,
+      "desc": "Penurunan menjelang musim dingin"
+    },
+    {
+      "name": "Des",
+      "offset": -2.0,
+      "desc": "Aktivitas liburan akhir tahun"
+    }
+  ]
+}

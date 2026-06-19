@@ -1,0 +1,27 @@
+[
+  {
+    "sensitive_feature_0": "Black",
+    "accuracy": 0.9346393897364771,
+    "selection_rate": 0.0
+  },
+  {
+    "sensitive_feature_0": "Hispanic",
+    "accuracy": 0.9057702102888744,
+    "selection_rate": 2.4254772126415873e-05
+  },
+  {
+    "sensitive_feature_0": "Other",
+    "accuracy": 0.9185427049321189,
+    "selection_rate": 0.0
+  },
+  {
+    "sensitive_feature_0": "Unknown",
+    "accuracy": 0.944871771991505,
+    "selection_rate": 0.0
+  },
+  {
+    "sensitive_feature_0": "White",
+    "accuracy": 0.9469358766233766,
+    "selection_rate": 0.0
+  }
+]

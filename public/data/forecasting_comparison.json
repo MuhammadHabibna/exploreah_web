@@ -1,0 +1,12 @@
+[
+  {
+    "Model": "Prophet",
+    "MAPE (%)": 50.71,
+    "RMSE": 6587.72
+  },
+  {
+    "Model": "SARIMA",
+    "MAPE (%)": 63.53,
+    "RMSE": 8166.31
+  }
+]

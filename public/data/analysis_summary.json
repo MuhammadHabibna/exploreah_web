@@ -1,0 +1,42 @@
+{
+  "project": "EXPLORE.AH! UNESA 2026 - Data Mining Competition",
+  "dataset": "Crime Data Los Angeles 2020-2024",
+  "total_records": 980376,
+  "pillar_1_clustering": {
+    "model": "UMAP + HDBSCAN",
+    "n_clusters": 52,
+    "silhouette": "0.6581"
+  },
+  "pillar_2_association": {
+    "algorithm": "FP-Growth",
+    "total_rules": 40,
+    "strong_rules": 20
+  },
+  "pillar_3_classification": {
+    "best_model": "Stacking Ensemble (LightGBM + RF + ExtraTrees)",
+    "f1_score": 0.0002,
+    "roc_auc": 0.8219,
+    "f1_ci_95": [
+      0.0,
+      0.0006
+    ]
+  },
+  "pillar_4_spatial": {
+    "morans_i": 0.1755,
+    "morans_p": 0.02764,
+    "hotspot_areas": []
+  },
+  "pillar_5_forecasting": {
+    "prophet_mape": 50.71,
+    "sarima_mape": 63.53
+  },
+  "causal_inference": {
+    "method": "Difference-in-Differences",
+    "did_coefficient": -53.5773,
+    "p_value": 0.034705
+  },
+  "survival_analysis": {
+    "method": "Cox PH",
+    "concordance_index": 0.7324
+  }
+}
