@@ -8,6 +8,16 @@ interface HeaderProps {
   onTabChange: (tab: TabId) => void;
 }
 
+const TAB_ICONS: Record<string, string> = {
+  overview:       '📊',
+  clustering:     '🔵',
+  association:    '🔗',
+  classification: '🤖',
+  spatial:        '🗺️',
+  forecasting:    '📈',
+  advanced:       '🧪',
+};
+
 export default function Header({ activeTab, onTabChange }: HeaderProps) {
   return (
     <header className="header">
@@ -23,6 +33,9 @@ export default function Header({ activeTab, onTabChange }: HeaderProps) {
               className={`header-tab ${activeTab === tab.id ? 'active' : ''}`}
               onClick={() => onTabChange(tab.id)}
             >
+              <span role="img" aria-hidden="true" style={{ fontSize: '13px', lineHeight: 1 }}>
+                {TAB_ICONS[tab.id]}
+              </span>
               {tab.label}
             </button>
           ))}
