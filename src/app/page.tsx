@@ -44,7 +44,13 @@ export default function Dashboard() {
           </span>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-            <span style={{ fontSize: '18px' }}>🏆</span>
+            <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="var(--accent-gold)" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
+              <path d="M5 3h10v7a5 5 0 0 1-10 0V3z" />
+              <path d="M5 5H2a2 2 0 0 0 2 2h1" />
+              <path d="M15 5h3a2 2 0 0 1-2 2h-1" />
+              <line x1="10" y1="15" x2="10" y2="18" />
+              <line x1="6" y1="18" x2="14" y2="18" />
+            </svg>
             <div>
               <div className="site-footer-team">
                 <span style={{ fontSize: '12px', color: 'var(--text-muted)', fontWeight: 500, marginRight: '4px' }}>Tim:</span>
