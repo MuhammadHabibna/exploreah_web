@@ -35,6 +35,32 @@ export default function Dashboard() {
       <main className="main">
         {renderTab()}
       </main>
+      <footer style={{
+        textAlign: 'center',
+        padding: '24px 32px',
+        borderTop: '1px solid var(--border)',
+        marginTop: '40px',
+        color: 'var(--text-muted)',
+        fontSize: '12.5px',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        gap: '4px',
+        background: 'rgba(255, 255, 255, 0.4)',
+        backdropFilter: 'blur(8px)',
+        position: 'relative',
+        zIndex: 10
+      }}>
+        <div>
+          Dashboard Analisis Kejahatan LAPD &copy; {new Date().getFullYear()}
+        </div>
+        <div style={{ fontWeight: 500, color: 'var(--text-secondary)' }}>
+          Dibuat oleh Tim: <strong style={{ color: 'var(--accent-blue)' }}>Juara Di Malang</strong>
+        </div>
+        <div style={{ fontSize: '11.5px' }}>
+          Anggota: Muhammad Habib Nur Aiman &amp; Nazril Ravi Pratama
+        </div>
+      </footer>
     </>
   );
 }
