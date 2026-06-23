@@ -328,7 +328,17 @@ export default function AssociationTab() {
           </ResponsiveContainer>
         </ChartCard>
 
-        <ChartCard title="Aliran Hubungan Sebab-Akibat (Sankey Diagram)" dotColor="var(--accent-purple)">
+        <ChartCard 
+          title={
+            <div style={{ display: 'flex', flexDirection: 'column' }}>
+              <span>Aliran Asosiasi & Kemunculan Bersama (Sankey Diagram)</span>
+              <span style={{ fontSize: '12px', fontWeight: 400, color: 'var(--text-tertiary)', marginTop: '4px' }}>
+                *Aliran membaca probabilitas bersyarat (korelasi kemunculan), bukan sebab-akibat murni.
+              </span>
+            </div>
+          }
+          dotColor="var(--accent-purple)"
+        >
           <ResponsiveContainer width="100%" height={380}>
             <Sankey
               data={sankeyData}
